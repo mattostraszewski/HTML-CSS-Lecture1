@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 45px;
+  margin: 15px;
+}
+h2 {
+  color: salmon;
+  font-size: 23px;
+}
+
+h1, h2, h3 {
+  margin: 10px;
+}
+
+.third-heading {
+  font-size: 15px;
+  color: firebrick;
+}
+
+.third-heading:hover {
+  color: blueviolet;
+}
+
+li {
+  height: 5vh;
+  margin: 5px;
+}
+
+#Fly4Life-image {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.outer-box {
+  padding: 10px;
+  height: 250px;
+  width: 250px;
+  background-color: mediumspringgreen;
+}
+
+.inner-box {
+  height: 50%;
+  width: 50%;
+  background-color: magenta
+  }
+
+.lorem-text {
+  width: 75vw;
+   /* padding: 100px;
+  margin: 100px; */
+  border: 5px solid black;
+  font-size: 20px;
+  color: cornflowerblue;
+  font-weight: 600;
+  line-height: 175%;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  background-color: lightsalmon;
+}
